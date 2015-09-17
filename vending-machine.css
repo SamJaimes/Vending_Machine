@@ -1,0 +1,49 @@
+.vending-machine {
+    width: 700px;
+    height: 600px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: red;
+}
+
+h3 {
+  text-align: center;
+}
+.selection {
+  width: 90%;
+  height: 70%;
+  border: 1px solid black;
+  margin: auto;
+
+}
+
+.row {
+  width: 100%;
+  height: auto;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.drink {
+  height: 50%;
+  border: 1px solid black;
+  margin: auto;
+  text-align: center;
+
+}
+
+img {
+  border: 1px solid black;
+}
+/*.first-row {
+  display: block;
+}*/
+.btn{
+  display: block;
+  margin: auto;
+
+}
+
+h4 {
+  text-align: center;
+  margin-top: 75px;
+}
